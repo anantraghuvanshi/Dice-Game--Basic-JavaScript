@@ -1,1 +1,1 @@
-# Dice-Game--Basic-JavaScript
+# Dice-Game-Basic-JavaScript
